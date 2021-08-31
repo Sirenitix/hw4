@@ -1,4 +1,3 @@
-# hw4
 
 ## General info
 It's Book shopping Web Application.
